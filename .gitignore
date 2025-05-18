@@ -1,0 +1,9 @@
+# Ignore compiled class files
+/target/
+/test-classes/
+/classes/
+
+# Ignore IDE-specific settings
+.settings/
+.classpath
+.project
